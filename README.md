@@ -14,6 +14,8 @@
 ```bash
 pip install watchdog
 pip install zipfile
+
+```
 Використання
 Скопіюйте ваші файли, які ви хочете сортувати, у каталог Trash.
 
