@@ -37,3 +37,11 @@ pip install zipfile
 
 # Ліцензія
 Цей проект поширюється під ліцензією MIT. Докладну інформацію щодо ліцензії можна знайти у файлі LICENSE.
+
+
+# Як користуватися в exe
+## 1.Для початку зробіть папку де буде програма 
+## 2.Далі в цій папці створіть 2 папки: "sorted" і "Trash"
+## 3.У папці "sorted" такі папки: "Images", "Musik", "Other","Video"
+## 4.Далі скачайте програму тут - https://www.dropbox.com/scl/fi/vltjo72w30s82xwe1f0cd/main.exe?rlkey=voxppzgmoj61q60ignzk649ck&dl=0
+
