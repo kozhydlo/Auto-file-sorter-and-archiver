@@ -53,5 +53,6 @@ pip install zipfile
 Ви завжди можете зі мною звязатися в [Телеграмі](https://t.me/Kozhydlom)
 
 
+# Подивитися як працює прогрма можна [тут](https://www.dropbox.com/scl/fi/k5pnv6q9s73tsql1598b6/bandicam-2023-10-29-17-46-59-584.mp4?rlkey=gu6iglc02css1kj2i4d9w0px0&dl=0)
 
 
